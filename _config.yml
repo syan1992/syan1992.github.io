@@ -39,7 +39,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-5023-5752"
   semantic         : # URL
-  linkedin         : "www.linkedin.com/in/yan-hypo"
   photo            : "https://yans.gallery/"
   scopus           : # URL
 
@@ -53,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yan-hypo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
