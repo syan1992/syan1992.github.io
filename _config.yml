@@ -28,7 +28,6 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "London, Canada"
   employer         : "Western University"
-  uri              : "https://yans.gallery/"
   email            : "ysun2443@uwo.ca" 
 
   # Academic websites
@@ -76,6 +75,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  uri              : "https://yans.gallery/"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
