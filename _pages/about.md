@@ -2,10 +2,11 @@
 permalink: /
 author_profile: true
 ---
-
 I am currently a **Postdoctoral Fellow** in the Department of Biochemistry at **Western University**, Canada.  
-I received my Ph.D. in **Computer Science** from the **University of Manitoba**, under the supervision of [Prof. Pingzhao Hu](https://phulab.org/). My research interests include **artificial intelligence in drug discovery**, with a focus on molecular property prediction, drug–target interaction modeling, and geometric deep learning for biomedical applications.  
+My research focuses on developing **artificial intelligence methods for drug discovery**, particularly in **molecular property prediction**, **drug–target interaction modeling**, and **geometric deep learning**.
 
+I obtained my **Ph.D. in Computer Science** from the **University of Manitoba**, where I was supervised by [Prof. Pingzhao Hu](https://phulab.org/).  
+Before pursuing my doctoral studies, I worked at **GE Healthcare**, engaging in research and development related to **biomedical data analysis** and **AI-driven healthcare solutions**.
 ---
 
 🔥 News
