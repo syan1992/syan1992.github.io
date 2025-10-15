@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[📄 Download PDF version](../files/Yan_CV.pdf){: .btn .btn--primary }
+
 📞 Tel: (431) 337-6843 ✉️ Email: [ysun2443@uwo.ca](mailto:ysun2443@uwo.ca)  
 🔗 ORCID: [0009-0008-5023-5752](https://orcid.org/0009-0008-5023-5752) 💻 GitHub: [syan1992](https://github.com/syan1992)
 
@@ -60,3 +60,4 @@ redirect_from:
 
 ---
 
+[📄 Download PDF version](../files/Yan_CV.pdf){: .btn .btn--primary }
