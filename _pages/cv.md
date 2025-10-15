@@ -60,4 +60,4 @@ redirect_from:
 
 ---
 
-[📄 Download PDF version](../files/Yan_CV.pdf){: .btn .btn--primary }
+[📄 Download PDF version](../files/Yan_CV.pdf)
