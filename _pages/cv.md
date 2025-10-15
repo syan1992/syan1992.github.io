@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Yan Sun  
+📞 Tel: (431) 337-6843 ✉️ Email: [ysun2443@uwo.ca](mailto:ysun2443@uwo.ca)  
+🔗 ORCID: [0009-0008-5023-5752](https://orcid.org/0009-0008-5023-5752) 💻 GitHub: [syan1992](https://github.com/syan1992)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Visiting Ph.D. Student**  
+*Department of Biochemistry and Department of Computer Science, Western University, Canada*  
+*06/2023 – Present*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**PhD, Computer Science**  
+*University of Manitoba, Canada*  
+*09/2020 – 08/2025*
+
+**Master’s in Computer Technology**  
+*Xiamen University, China*  
+*09/2014 – 06/2017*
+
+**Bachelor’s in Cognitive Science and Technology**  
+*Xiamen University, China*  
+*09/2010 – 06/2014*
+
+---
+
+## Work Experience
+
+**Data Science Intern (Remote)**  
+*Servier Canada Inc. (Mitacs Accelerate Project), Quebec, Canada*  
+*07/2021 – 08/2022*
+
+**CT Image Quality Engineer**  
+*GE Healthcare, Beijing, China*  
+*08/2017 – 12/2020*
+
+---
+
+## Patents
+
+- Yan Sun, Xueli Wang, Mingyang Yang, Bingjie Zhao. *Tissue boundary determination apparatus and method.* Patent Publication No. 20220383491.  
+- Bingjie Zhao, Xueli Wang, Yan Sun. *A system and method for predicting truncation image, method for preparing data and medium thereof.*  
+- Dejun Wang, Yaan Ge, Yan Sun, Buer Qi. *Medical imaging method and system.* Patent No. 11398012.
+
+---
+
+## Manuscript Review
+
+🗓️ 05/2025 — **Nature** (Co-review with supervisor)
+
+---
+
