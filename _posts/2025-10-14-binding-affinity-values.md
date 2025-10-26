@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to Understand and Compare Binding Affinity Values: Kd, Ki, IC₅₀, and FEP"
 date: 2025-10-14
 excerpt: "Binding affinity metrics like Kd, Ki, IC₅₀, and ΔG are often used interchangeably — but they measure different things. This post explains how they relate, when they differ, and how to interpret them in both experimental and virtual screening settings."
