@@ -6,7 +6,7 @@ excerpt: "A concise, step-by-step tutorial for performing virtual screening with
 tags: [openeye, fred, docking, virtual screening, molecular modeling, bioinformatics]
 ---
 
-## 1. Prepare the Receptor
+## Prepare the Receptor
 
 1. **Download a PDB file with a bound ligand**
     - Obtain the target protein structure from RCSB PDB (https://**www.rcsb.org**).
@@ -14,11 +14,11 @@ tags: [openeye, fred, docking, virtual screening, molecular modeling, bioinforma
 2. **Generate the receptor file (`.oedu`)**
     - Use the **make_receptor** GUI application from OpenEye (currently GUI-only).
 
-### Output
+#### Output
 
 - `rec_site1.oedu`: the receptor definition file required by FRED for docking.
 
-## 2. Prepare the Ligands
+## Prepare the Ligands
 
 1. **Combine and compress SDF files**
     
@@ -36,15 +36,14 @@ tags: [openeye, fred, docking, virtual screening, molecular modeling, bioinforma
     - `omega2` generates 3D conformers for all ligands.
     - The `.oeb.gz` output is directly compatible with FRED docking.
 
-### Output
+#### Output
 
 - `enamine_all_3d.oeb.gz`: the ligand database with 3D conformers.
 
----
 
-## 3. Run Docking (FRED)
+## Run Docking (FRED)
 
-### Basic Command
+#### Basic Command
 
 ```bash
 fred -mpi_np 4 \
@@ -53,7 +52,7 @@ fred -mpi_np 4 \
      -docked_molecule_file enamine_docked.sdf.gz
 ```
 
-### Parameter Explanation
+#### Parameter Explanation
 
 - `mpi_np 4`: runs with 4 parallel processes (MPI cores).
 - `receptor`: input receptor file (`.oedu`).
@@ -62,6 +61,6 @@ fred -mpi_np 4 \
 - *(Optional)* `hitlist_size 100`: limit to top 100 results.
 - *(Optional)* `conftest none`: disable conformer filtering.
 
-### Output
+#### Output
 
 - `enamine_docked.sdf.gz`: contains docked poses and scores.
