@@ -10,6 +10,8 @@ I obtained my Ph.D. in Computer Science from the University of Manitoba, where I
 
 🔥 News
 ======
-- **2025.09**: 🎉 One paper published in *Communications Chemistry*.  
-- **2025.09**: 🎓 Successfully defended and received my Ph.D. degree.  
+- **2026.08**: 🎉 Published a paper on interval-aware mixture of experts for imbalanced molecular property regression in *Journal of Chemical Information and Modeling*.  
+- **2025.11**: 🎉 Published a review on molecular design in *Journal of Chemical Information and Modeling*.  
+- **2025.09**: 🎉 Published a paper in *Communications Chemistry*.  
+- **2025.09**: 🎓 Successfully defended my Ph.D. dissertation and received my Ph.D. degree.  
 - **2025.06**: Delivered a seminar on *Representation Learning of Small Molecules and Proteins* at Western University.  
